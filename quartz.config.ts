@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "mkdir ~/blog && cd ~/life",
+    pageTitle: "move 37",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
